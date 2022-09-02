@@ -43,3 +43,35 @@ Cкріншот першого тижня: [https://skr.sh/sFOPDtWvOFe?a](https:
 ### HTTP:
 
 Новим для мене було використання HTTP у фреймворках та бібліотеках таких як: ExpressJS (для Node), Ruby on Rails та jQuery Ajax. Здивувало те, що в залежності від того, де міститься кеш, можна виділити наступні його категорії: Приватний та Публічний.
+
+## Git Collaboration
+
+Дуже радий, що додивився до кінця, дізнався дуже багато цікавої і корисної інформації щодо Git та Github і я розумію, що без цього працювати в команді буде дуже складно.
+
+<details>
+<summary>3 Тиждень</summary>
+
+![week 3](./task_git_collaboration/week3.jpg)
+
+</details>
+<details>
+<summary>4 Тиждень</summary>
+
+![week 4](./task_git_collaboration/week4.jpg)
+
+</details>
+
+### learngitbranching.js.org
+
+<details>
+<summary>Основи: Їдемо далі, Переміщуємо роботу туди-сюди</summary>
+
+![Їдемо далі, Переміщуємо роботу туди-сюди](./task_git_collaboration/basics.jpg)
+
+</details>
+<details>
+<summary>Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes</summary>
+
+![Віддалені репозиторії: Через origin – до зірок](./task_git_collaboration/origin.jpg)
+
+</details>
