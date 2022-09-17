@@ -1,17 +1,20 @@
 # Всім привіт! Мене звати Ваня і я новенький в IT-сфері
 
-## Git Basics
-
+<details>
+<summary><h2>Git Basics</h2></summary>
 Я пройшов 2-тижневий курс на сайті Coursera і вся інформація була для мене новою, важкою та цікавою. Здивував великий функціонал Git та GitHub. Буду використовувати всі вивчені команди в майбутньому.  
-Cкріншот першого тижня: [https://skr.sh/sFOPDtWvOFe?a](https://skr.sh/sFOPDtWvOFe?a).  
-Скріншот другого тижня: [https://skr.sh/sFOdeJLOz7l?a](https://skr.sh/sFOdeJLOz7l?a).
+Cкріншот першого тижня: https://skr.sh/sFOPDtWvOFe?a.  
+Скріншот другого тижня: https://skr.sh/sFOdeJLOz7l?a.
 
 ### learngitbranching.js.org
 
-Основи: Introduction Sequence: [https://skr.sh/sFOZqG3Mc6r?a](https://skr.sh/sFOZqG3Mc6r?a).  
-Віддалені репозиторії: Push & Pull: [https://skr.sh/sFOJu0bcW3V?a](https://skr.sh/sFOJu0bcW3V?a).
+Основи: Introduction Sequence — https://skr.sh/sFOZqG3Mc6r?a.  
+Віддалені репозиторії: Push & Pull — https://skr.sh/sFOJu0bcW3V?a.
 
-## Linux CLI, and HTTP
+</details>
+
+<details>
+<summary><h2>Linux CLI, and HTTP</h2></summary>
 
 ### Linux:
 
@@ -36,18 +39,20 @@ Cкріншот першого тижня: [https://skr.sh/sFOPDtWvOFe?a](https:
 </details>
 <details>
  <summary>Четвертий модуль</summary>
- 
+
 ![module 4](./task_linux_cli/module4.jpg)
+
 </details>
 
 ### HTTP:
 
 Новим для мене було використання HTTP у фреймворках та бібліотеках таких як: ExpressJS (для Node), Ruby on Rails та jQuery Ajax. Здивувало те, що в залежності від того, де міститься кеш, можна виділити наступні його категорії: Приватний та Публічний.
 
-## Git Collaboration
+</details>
 
-Дуже радий, що додивився до кінця, дізнався дуже багато цікавої і корисної інформації щодо Git та Github і я розумію, що без цього працювати в команді буде дуже складно.
-
+<details>
+<summary><h2>Git Collaboration</h2></summary>
+Дуже радий, що додивився до кінця, дізнався дуже багато цікавої і корисної інформації щодо Git та Github і я розумію, що без цього працювати в команді буде дуже складно.  
 <details>
 <summary>3 Тиждень</summary>
 
@@ -74,4 +79,33 @@ Cкріншот першого тижня: [https://skr.sh/sFOPDtWvOFe?a](https:
 
 ![Віддалені репозиторії: Через origin – до зірок](./task_git_collaboration/origin.jpg)
 
+</details>
+</details>
+
+<details>
+<summary><h2>Intro to HTML and CSS</h2></summary>
+З основами HTML та CSS я був знайомий. Проте про Bootstrap раніше нічого не знав. Новим також була і система Grid. Однак як на мене Bootstrap вже застарівша технологія.
+<details>
+<summary>Cкріншот першого тижня:</summary>
+
+![Cкріншот першого тижня](./task_html_css_intro/Introduction-to-HTML5-Coursera.jpg)
+
+</details>
+<details>
+<summary>Скріншот другого тижня:</summary>
+
+![Скріншот другого тижня](./task_html_css_intro/Introduction-to-HTML-CSS-week-2.jpg)
+
+</details>
+
+### Learn HTML & CSS:
+
+<details>
+<summary>Курси пройдено</summary>
+
+![Перший та другий курси](./task_html_css_intro/Learn-HTML-CSS.jpg)
+
+Краще розібрався як писати код CSS одразу в коді HTML, використовуючи потрібні стилі. Пригадав деякий матеріал, котрий використовуватиму в майбутньому.
+
+</details>
 </details>
