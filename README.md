@@ -109,3 +109,20 @@ Cкріншот першого тижня: https://skr.sh/sFOPDtWvOFe?a.
 
 </details>
 </details>
+
+<details>
+<summary><h2>Responsive Web Design</h2></summary>
+З позиціонуванням не був знайомий, тому дуже радий, що вже його освоїв як Flex, так і Grid технології. В майбутньому обов'язково буду використовувати отримані з даного розділу технології.
+<details>
+<summary>Скріншот прохождення Flex Froggy</summary>
+
+![Flex Froggy](./task_responsive_web_design/Flex-Froggy.jpg)
+
+</details>
+<details>
+<summary>Скріншот прохождення Grid Garden</summary>
+
+![Grid Garden](./task_responsive_web_design/Grid-Garden.jpg)
+
+</details>
+</details>
